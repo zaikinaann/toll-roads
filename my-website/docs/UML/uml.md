@@ -4,8 +4,6 @@ sidebar_position: 1
 ---
 # Диаграмма вариантов использования (use case)
 
-![alt text](./use_cases.png)
-
 ```plantuml
 @startuml
 

@@ -4,8 +4,6 @@ sidebar_position: 2
 ---
 # Диаграмма последовательности (sequence)
 
-![alt text](./sequence.png)
-
 ```plantuml
 @startuml
 
