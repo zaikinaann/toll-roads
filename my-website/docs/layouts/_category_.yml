@@ -1,0 +1,7 @@
+position: 6 # для сортировки папки в сайдбаре
+label: Макеты экранов # название пункта меню в сайдбаре
+collapsible: true
+collapsed: true
+link:
+  type: generated-index
+  title: Макеты экранов # Заголовок на странице

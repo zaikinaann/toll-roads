@@ -2,52 +2,16 @@
 sidebar_position: 1
 ---
 
-# Home page
+# Toll roads
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Mobile application for traveling on toll roads in the Russian Federation: calculation of travel costs, replenishment of transponders, payment of debts. The product allows users to manage all issues related to travel on toll roads within a single application. Integration with companies servicing sections of toll roads ensures up-to-date information on travel costs, possible traffic restrictions, and more.
 
-:::info
-**PETSTORE** — это онлайн-платформа для покупки домашних животных. Сервис включает в себя каталог питомцев, систему обработки заказов, доставку. PETSTORE работает через веб-интерфейс и мобильные приложения, поддерживая удобный пользовательский интерфейс и быстрые способы оплаты.
-:::
+Key features:
 
----
+- Calculation of travel costs based on the section, vehicle type, time of entry onto the toll section, and the presence and type of transponder
 
-## Getting Started
+- Replenishment of transponders
 
-Get started by **creating a new site**.
+- Payment of debts for travel on open roads (without toll collection points)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Ability to create requests regarding changes in costs, traffic restrictions, and other issues for representatives of companies servicing sections of toll roads.

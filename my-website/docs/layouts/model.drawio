@@ -1,0 +1,334 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Страница — 1" id="cAiiCskIx-CPiagkMOPm">
+    <mxGraphModel dx="1290" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="1390" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-2" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="560" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-3" value="Список трасс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="360" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-5" value="Поля с&amp;nbsp; параметрами для расчета:&lt;div&gt;- categoryId (Категория ТС)&lt;/div&gt;&lt;div&gt;- departureTime (Время отправления)&lt;/div&gt;&lt;div&gt;- typeTransponderId (Тип транспондера)&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;startLocation (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Откуда)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- &lt;span style=&quot;background-color: initial;&quot;&gt;endLocation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(Куда)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Кнопка Рассчитать&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="420" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-6" value="Отрисованная карта (png)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="90" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-7" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="760" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-9" value="Поля:&lt;div&gt;&lt;div&gt;1. startLocation (Нач. точка)&lt;/div&gt;&lt;div&gt;2. endLocation (Кон. точка)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Кнопка Перейти к расчету&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="870" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-10" value="Кнопка Выбрать произвольный участок" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="500" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-11" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="760" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-14" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="560" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-15" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1240" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-16" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1240" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1440" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-22" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1920" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-23" value="Кнопки меню:&lt;div&gt;- Раздел&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Транспортное средство&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Раздел&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Платежные методы&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1450" width="360" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1440" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-25" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1920" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-26" value="Кнопка Сохранить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1860" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-27" value="&lt;div&gt;Поля:&lt;/div&gt;&lt;div&gt;- Категория&lt;/div&gt;&lt;div&gt;- Номер&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Чекбокс Нестандартный номер&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1520" width="360" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-29" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2120" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-31" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2600" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-32" value="&lt;div&gt;Список привязанных карт&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки рядом с каждой картой:&lt;/div&gt;&lt;div&gt;- Удалить&lt;/div&gt;&lt;div&gt;- Изменить&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2280" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-33" value="Раздел Платежные методы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="2060" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-34" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-35" value="Кнопка Добавить карту" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2540" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="2120" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-37" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="2600" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-38" value="&lt;div&gt;Список привязанных карт&lt;/div&gt;&lt;div&gt;Кнопка Удалить рядом с каждой картой&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="2280" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-39" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-40" value="Кнопка Добавить карту" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="2540" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-41" value="&lt;div&gt;Поля:&lt;/div&gt;&lt;div&gt;- Номер карты&lt;/div&gt;&lt;div&gt;- Срок действия&lt;/div&gt;&lt;div&gt;- CVV&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки:&lt;/div&gt;&lt;div&gt;- Сохранить&lt;/div&gt;&lt;div&gt;- Отмена&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="2290" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="2120" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-43" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="2600" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-44" value="&lt;div&gt;Список привязанных карт&lt;/div&gt;&lt;div&gt;Кнопка Удалить рядом с каждой картой&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="2280" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-45" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-46" value="Кнопка Добавить карту" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="2540" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-47" value="&lt;div&gt;Окно с ошибкой&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопка ОК&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1565" y="2325" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-48" value="Выбрали Изменить или Добавить карту" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="2070" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-600" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-50" value="Поля:&lt;div&gt;-&amp;nbsp;Email&lt;/div&gt;&lt;div&gt;- Пароль&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки:&lt;/div&gt;&lt;div&gt;- Войти&lt;/div&gt;&lt;div&gt;- Забыли пароль?&lt;/div&gt;&lt;div&gt;- Регистрация&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-490" width="360" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="-600" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-52" value="Поля:&lt;div&gt;-&amp;nbsp;Email&lt;/div&gt;&lt;div&gt;- Пароль&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Чекбокс Согласен с политикой конфиденциальности&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки:&lt;/div&gt;&lt;div&gt;- Войти&lt;/div&gt;&lt;div&gt;- Забыли пароль?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="-490" width="360" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-53" value="&lt;div&gt;Информационное окно&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопка ОК&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="-385" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2800" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-55" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="3280" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-56" value="&lt;div&gt;Список транспондеров&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки рядом с каждым транспондером:&lt;/div&gt;&lt;div&gt;- Удалить&lt;/div&gt;&lt;div&gt;- Изменить&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="2960" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-57" value="Кнопка Добавить транспондер" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="3220" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2800" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-59" value="Кнопки м&lt;span style=&quot;background-color: initial;&quot;&gt;еню:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Транспондеры, оплата&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расчет стоимости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Настройки профиля&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="3280" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-60" value="&lt;div&gt;Список транспондеров&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки рядом с каждым транспондером:&lt;/div&gt;&lt;div&gt;- Удалить&lt;/div&gt;&lt;div&gt;- Изменить&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2960" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-61" value="Кнопка Добавить транспондер" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="530" y="3220" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-62" value="&lt;div&gt;Поля:&lt;/div&gt;&lt;div&gt;- Название (необязательное)&lt;/div&gt;&lt;div&gt;- Оператор&lt;/div&gt;&lt;div&gt;- Номер устройства&lt;/div&gt;&lt;div&gt;- Номер договора&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки:&lt;/div&gt;&lt;div&gt;- Сохранить&lt;/div&gt;&lt;div&gt;- Отмена&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="2975" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-600" width="380" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-64" value="Поля:&lt;div&gt;-&amp;nbsp;Email&lt;/div&gt;&lt;div&gt;- Пароль&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Чекбокс Согласен с политикой конфиденциальности&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопки:&lt;/div&gt;&lt;div&gt;- Зарегистрироваться&lt;/div&gt;&lt;div&gt;- Отмена&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-490" width="360" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-49" target="h8wF_HTgiUl17c5c6_oB-63" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="-335" as="sourcePoint" />
+            <mxPoint x="530" y="-385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-63" target="h8wF_HTgiUl17c5c6_oB-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="-280" as="sourcePoint" />
+            <mxPoint x="790" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-1" target="h8wF_HTgiUl17c5c6_oB-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="390" as="sourcePoint" />
+            <mxPoint x="510" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-4" target="h8wF_HTgiUl17c5c6_oB-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="100" as="sourcePoint" />
+            <mxPoint x="360" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-1" target="h8wF_HTgiUl17c5c6_oB-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="550" as="sourcePoint" />
+            <mxPoint x="610" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-8" target="h8wF_HTgiUl17c5c6_oB-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="820" as="sourcePoint" />
+            <mxPoint x="720" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-21" target="h8wF_HTgiUl17c5c6_oB-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1770" as="sourcePoint" />
+            <mxPoint x="340" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.072;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-24" target="h8wF_HTgiUl17c5c6_oB-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1770" as="sourcePoint" />
+            <mxPoint x="340" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.794;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-24" target="h8wF_HTgiUl17c5c6_oB-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1860" as="sourcePoint" />
+            <mxPoint x="460" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-78" value="/roads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-79" value="/roads&lt;span style=&quot;background-color: initial;&quot;&gt;/{&lt;/span&gt;road&lt;span style=&quot;background-color: initial;&quot;&gt;Id&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-80" value="&amp;nbsp;result (Результат расчета)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="370" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-82" value="Отрисованная карта (Построение маршрута с помощью стороннего сервиса)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="770" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-19" value="Кнопка Назад" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-85" value="/randomSection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="507.5" y="730" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-86" value="Поля с&amp;nbsp; параметрами для расчета:&lt;div&gt;- category (Категория ТС)&lt;/div&gt;&lt;div&gt;- time (Время проезда&lt;/div&gt;&lt;div&gt;- type (Тип транспондера)&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;startLocation (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Откуда) - только просмотр&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- &lt;span style=&quot;background-color: initial;&quot;&gt;endLocation&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(Куда) - только просмотр&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Кнопки Рассчитать, Альтернативный маршрут&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1100" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-87" value="&amp;nbsp;result (Результат расчета)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1050" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-8" target="h8wF_HTgiUl17c5c6_oB-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="1100" as="sourcePoint" />
+            <mxPoint x="800" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-12" target="h8wF_HTgiUl17c5c6_oB-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="770" as="sourcePoint" />
+            <mxPoint x="900" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8wF_HTgiUl17c5c6_oB-90" value="/randomSection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-1" value="/auth" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-2" value="/auth" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-3" value="/settings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-4" value="/settings/vehicle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-5" value="/settings/payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="545" y="2090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-6" value="/settings/payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="2090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-7" value="/settings/payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1505" y="2090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-8" value="/transponders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="2770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-9" value="/transponders" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-10" value="/auth" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="-630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-36" target="h8wF_HTgiUl17c5c6_oB-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="2360" as="sourcePoint" />
+            <mxPoint x="940" y="2460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="h8wF_HTgiUl17c5c6_oB-30" target="h8wF_HTgiUl17c5c6_oB-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="2360" as="sourcePoint" />
+            <mxPoint x="870" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3050" as="sourcePoint" />
+            <mxPoint x="420" y="3050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KbiUPIUV59BzkDGXsCW5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="2910" as="sourcePoint" />
+            <mxPoint x="520" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
