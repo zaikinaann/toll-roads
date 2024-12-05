@@ -1,0 +1,7 @@
+position: 11 # для сортировки папки в сайдбаре
+label: Тестирование # название пункта меню в сайдбаре
+collapsible: true
+collapsed: true
+link:
+  type: generated-index
+  title: Тестирование # Заголовок на странице
